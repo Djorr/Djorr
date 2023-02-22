@@ -1,23 +1,18 @@
+![UP](https://user-images.githubusercontent.com/72404424/188732122-1470f20d-fc48-4f91-9243-20307da78635.png)
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I am Djorr 
-<h align = "left"><img src = "https://github-readme-stats.vercel.app/api?username=Djorr&theme=radical" alt = "Stats" /></h><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Djorr&hide=TeX&layout=compact&theme=radical)
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, my name is Djorr.</h1>
 
-<a href="https://github.com/MoonDevelopment-Gio">
-  <p align="left">
+<p align="center">I make games in Minecraft with the Java, C# and C++ programming language. I make Minecraft Plugins, Minecraft Clients and Minecraft Spigots. You can find more information about my services on my <a href="https://discord.rubixdevelopment.nl/">discord</a>.</p>
+
+<a href="https://github.com/Djorr">
+  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Djorr" alt="Profile Views">
   </p>
 </a>
 
- <h2>🚀 Some things I use</h2>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Djorr&show_icons=true&theme=github_dark" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djorr&hide=TeX&layout=compact&theme=github_dark" />
+</p>
+
+![DOWN](https://user-images.githubusercontent.com/72404424/188732155-8323db96-01c9-4ec8-b451-96cb48c3ac58.png)
