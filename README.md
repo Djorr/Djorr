@@ -1,6 +1,6 @@
 ![UP](https://user-images.githubusercontent.com/72404424/188732122-1470f20d-fc48-4f91-9243-20307da78635.png)
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, my name is La-Shawn.</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, my name is Djorr.</h1>
 
 <p align="center">I make games in Minecraft with the Java, C# and C++ programming language. I make Minecraft Plugins, Minecraft Clients and Minecraft Spigots. You can find more information about my services on my <a href="https://discord.rubixdevelopment.nl/">discord</a>.<br/><br/>Would like to see a portofolio of all my creations? Join the <a href="https://discord.rubixdevelopment.nl/">discord</a> and go to the following channels below:<br/></p>
 
